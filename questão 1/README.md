@@ -1,6 +1,6 @@
 ## 315. Count of Smaller Numbers After Self
 
-<img width="702" alt="Captura de Tela 2024-12-23 às 16 42 14" src="https://github.com/user-attachments/assets/99946a0c-1dd1-4bc7-9c9c-7e92bd09b756" />
+![image](https://github.com/user-attachments/assets/791d77e5-3143-4ce8-9b78-aeec3a57dc49)
 
 [Link para a questão](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
 
@@ -39,5 +39,10 @@ Constraints:
 -104 <= nums[i] <= 104
 
 ### Submissões: 
+
+![image](https://github.com/user-attachments/assets/a843380f-2c6b-4098-94fc-64e647ce7395)
+
+![image](https://github.com/user-attachments/assets/0cae4ed1-5e72-4342-9624-3b0678c0f1d2)
+
 
 
