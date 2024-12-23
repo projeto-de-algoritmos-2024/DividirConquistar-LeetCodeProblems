@@ -21,7 +21,7 @@ Este repositório contém questões resolvidas, sobre o conteúdo de Dividir e C
 ## Questões
 | Exercício | Dificuldade | Enunciado | Aluno |
 | -- | -- | -- | -- |
-| | | | Artur Rodrigues Sousa Alves |
+| [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)| Hard | | Artur Rodrigues Sousa Alves |
 | | | |  Miguel Matos Costa De Frias Barbosa |
 | |  |  |  Miguel Matos Costa De Frias Barbosa |
 
