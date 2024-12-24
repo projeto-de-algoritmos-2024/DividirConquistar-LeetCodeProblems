@@ -21,7 +21,7 @@ Este repositório contém questões resolvidas, sobre o conteúdo de Dividir e C
 ## Questões
 | Questão | Exercício | Dificuldade | Aluno |
 | -- | -- | -- | -- |
-| 1 | [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)| Hard | | Artur Rodrigues Sousa Alves |
+| 1 | [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)| Hard | Artur Rodrigues Sousa Alves |
 | 2 |[148. Sort List](https://leetcode.com/problems/sort-list/description/)|Medium|  Miguel Matos Costa De Frias Barbosa |
 | 3 |[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | Hard |  Miguel Matos Costa De Frias Barbosa |
 
